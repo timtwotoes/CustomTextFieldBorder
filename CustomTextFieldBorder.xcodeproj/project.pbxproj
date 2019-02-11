@@ -12,6 +12,7 @@
 		E92F1EC12211DE7900BC43C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E92F1EC02211DE7900BC43C8 /* Assets.xcassets */; };
 		E92F1EC42211DE7900BC43C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E92F1EC22211DE7900BC43C8 /* Main.storyboard */; };
 		E92F1ECD2211EE5100BC43C8 /* CustomBorderTextFieldCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92F1ECC2211EE5100BC43C8 /* CustomBorderTextFieldCell.swift */; };
+		E92F1ECF2211F7D500BC43C8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E92F1ECE2211F7D400BC43C8 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E92F1EC52211DE7900BC43C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E92F1EC62211DE7900BC43C8 /* CustomTextFieldBorder.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CustomTextFieldBorder.entitlements; sourceTree = "<group>"; };
 		E92F1ECC2211EE5100BC43C8 /* CustomBorderTextFieldCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBorderTextFieldCell.swift; sourceTree = "<group>"; };
+		E92F1ECE2211F7D400BC43C8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 		E92F1EB02211DE7700BC43C8 = {
 			isa = PBXGroup;
 			children = (
+				E92F1ECE2211F7D400BC43C8 /* README.md */,
 				E92F1EBB2211DE7800BC43C8 /* CustomTextFieldBorder */,
 				E92F1EBA2211DE7800BC43C8 /* Products */,
 			);
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E92F1ECF2211F7D500BC43C8 /* README.md in Resources */,
 				E92F1EC12211DE7900BC43C8 /* Assets.xcassets in Resources */,
 				E92F1EC42211DE7900BC43C8 /* Main.storyboard in Resources */,
 			);
